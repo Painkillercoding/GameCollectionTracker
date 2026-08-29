@@ -1,4 +1,4 @@
-namespace GameCollectionTracker.Tests
+﻿namespace GameCollectionTracker.Tests
 {
     public class UnitTest1
     {
